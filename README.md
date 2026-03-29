@@ -28,17 +28,18 @@ This project demonstrates the use of Jira for managing a Transport Department sy
 * TDS Sprint 1 (Completed)
 
 **Screenshots**
-
 **Backlog**
-![Backlog](backlog.png)
+![Backlog](Backlogs.png)
 
 **Board**
-![Board](board.png)
 
- **Releases**
-![Releases](releases.png)
+![Board](Board.png)
+
+**Releases**
+![Releases](Releases.png)
 
 **Story**
+
 ![Story](story.png)
 
 **Conclusion**

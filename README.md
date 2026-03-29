@@ -31,7 +31,24 @@ This project demonstrates the use of Jira for managing a Transport Department sy
 
 ## 📸 Screenshots
 
-(Add your Jira screenshots here)
+
+
+### Backlog
+
+![Backlog](backlog.png)
+
+### Board
+
+![Board](board.png)
+
+### Releases
+
+![Releases](releases.png)
+
+### Story
+
+![Story](story.png)
+
 
 ## ✅ Conclusion
 
